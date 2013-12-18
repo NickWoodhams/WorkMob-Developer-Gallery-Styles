@@ -7,4 +7,4 @@ The base gallery uses default Bootstrap v3.0.3 styles, then additional styles ar
 
 Your custom styles will be loaded after gallery.css. 
 
-###To view an example gallery, head to: [http://wip.theworkmob.com](http://wip.theworkmob.com/)
+###To view an example gallery, head to: [http://developers.theworkmob.com](http://developers.theworkmob.com/)
